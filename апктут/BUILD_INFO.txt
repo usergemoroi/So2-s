@@ -1,0 +1,43 @@
+================================================================
+     STANDOFF 2 INJECTOR - BUILD INFORMATION
+================================================================
+
+Build Date: January 31, 2026
+Version: 2.9
+Build Type: Debug
+
+APK File: Standoff2-Injector-v2.9.apk
+Size: 445 KB
+Package: com.android.support
+
+Target Game: Standoff 2 (com.axlebolt.standoff2)
+Min SDK: API 19 (Android 4.4)
+Target SDK: API 30 (Android 11)
+Architecture: armeabi-v7a (32-bit)
+
+Build Tools:
+- Gradle: 7.0.2
+- Android SDK: API 30
+- Build Tools: 30.0.3
+- NDK: r22 (22.0.7026061)
+- Java: OpenJDK 11
+
+Features:
+- Zygisk/Magisk module integration
+- IL2CPP offset resolution
+- ImGui overlay rendering
+- ESP/mod menu with player boxes, health/armor bars
+- Distance, money, weapon display
+- Custom fonts and colors
+- xhook detours for eglSwapBuffers
+
+Installation:
+1. Enable "Install from Unknown Sources" in Android settings
+2. Install the APK file
+3. Grant required permissions
+4. Inject into Standoff 2
+
+Note: This is a modded injector for educational purposes only.
+Use at your own risk.
+
+================================================================

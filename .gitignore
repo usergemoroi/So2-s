@@ -1,0 +1,21 @@
+# Android Build artifacts
+anal/.gradle/
+anal/.idea/
+anal/build/
+anal/app/build/
+anal/local.properties
+anal/*.iml
+anal/.externalNativeBuild/
+anal/.cxx/
+
+# SDK/NDK downloads (already installed)
+android-sdk/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Keep the APK output folder
+!апктут/
+апктут/*.apk.tmp
